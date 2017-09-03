@@ -9,7 +9,7 @@ Hey! These are some markdown tools for Github Jekyll & Jekyll-Now
 
 * [Front Matter][2]{:target="_blank"} : Configure your files to be processed by YML.
 
-* [Markdown cheatsheet][3]{:target="_blank"} : Minimal rich-content for your documents.
+* [Markdown cheatsheet][3]{:target="_blank"} : Format your document contents.
 
 * [Other markdown tools][4]{:target="_blank"} : Others markdowns.
 
