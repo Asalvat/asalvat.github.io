@@ -5,7 +5,7 @@ title: Markdown Tools for Jekyll
 
 Hey! These are some markdown tools for Github Jekyll & Jekyll-Now
 
-* [Build a blog with Jekyll and Github pages][1]
+* [Build a blog with Jekyll and Github pages][1]{:target="_blank"}
 
 * [Front Matter][2]
 
