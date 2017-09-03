@@ -5,7 +5,7 @@ title: Markdown tools
 
 [Build a blog with Jekyll and Github pages][1]
 
-[From Matter] [2]
+[Front Matter][2]
 
 [Markdown cheatsheet][3]
 
