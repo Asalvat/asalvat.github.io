@@ -13,7 +13,7 @@ Hey! These are some markdown tools for Github Jekyll & Jekyll-Now
 
 * [Other markdown tools][4]{:target="_blank"} : Others markdowns.
 
-* [Become a Guru Tutorials by Atlassian][5] : Yes! Become a git guru!
+* [Become a Guru Tutorials by Atlassian][5]{:target="_blank"} : Yes! Become a git guru!
 
 [1]: https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
 [2]: http://jekyllrb.com/docs/frontmatter/
