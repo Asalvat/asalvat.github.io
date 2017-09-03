@@ -5,11 +5,11 @@ title: Markdown tools
 
 [Build a blog with Jekyll and Github pages][1]
 
-[Fron Matter] [2]
+[From Matter] [2]
 
-[Markdown cheatsheet][2]
+[Markdown cheatsheet][3]
 
-[Other markdown tools][3]
+[Other markdown tools][4]
 
 [1]: https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
 [2]: http://jekyllrb.com/docs/frontmatter/
