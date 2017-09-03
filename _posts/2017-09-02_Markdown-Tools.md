@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Markdown tools
+title: Markdown Tools
 ---
 
 [Build a blog with Jekyll and Github pages][1]
