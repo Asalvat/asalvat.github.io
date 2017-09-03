@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Markdown Tools
+title: Markdown Tools for Jekyll
 ---
 
 Hey! These are some markdown tools for Github Jekyll & Jekyll-Now
