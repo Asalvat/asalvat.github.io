@@ -3,6 +3,8 @@ layout: post
 title: Markdown Tools
 ---
 
+Some markdown tools for Github Jekyll & Jekyll-Now
+
 [Build a blog with Jekyll and Github pages][1]
 
 [Front Matter][2]
