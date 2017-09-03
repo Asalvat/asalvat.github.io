@@ -3,15 +3,15 @@ layout: post
 title: Markdown Tools
 ---
 
-Some markdown tools for Github Jekyll & Jekyll-Now
+Hey! These are some markdown tools for Github Jekyll & Jekyll-Now
 
-[Build a blog with Jekyll and Github pages][1]
+* [Build a blog with Jekyll and Github pages][1]
 
-[Front Matter][2]
+* [Front Matter][2]
 
-[Markdown cheatsheet][3]
+* [Markdown cheatsheet][3]
 
-[Other markdown tools][4]
+* [Other markdown tools][4]
 
 [1]: https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
 [2]: http://jekyllrb.com/docs/frontmatter/
