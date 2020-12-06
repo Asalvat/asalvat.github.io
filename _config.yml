@@ -87,4 +87,5 @@ exclude:
   - README.md
   - CNAME
 
+encoding: UTF-8
 future: true
